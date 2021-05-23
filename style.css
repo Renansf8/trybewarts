@@ -1,0 +1,185 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: lavender;
+    font-family: Mate SC, serif;
+    height: 100%;
+  }
+  
+  body h1 {
+    color: white;
+  }
+  
+  .header-container {
+    background-color: rgb(50, 167, 145);
+  }
+  
+  .header {
+    background-color: rgb(50, 167, 145);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 115px;
+  }
+  
+  .header h1 {
+    font-size: 40px;
+  }
+  
+  .trybewarts-header-logo {
+    width: 60px;
+    margin-bottom: 8px;
+    margin-top: 8px;
+  }
+  
+  .trybewarts-login {
+    display: flex;
+    margin-right: 150px;
+  }
+  
+  .trybewarts-login input {
+    margin: 0 8px;
+    height: 24px;
+    padding: 14px;
+    border-radius: 6px;
+    border: 0;
+    font-family: Mate SC, serif;
+  }
+  
+  .family-container input {
+    margin: 12px 0;
+  }
+  
+  .input-row input {
+    padding: 8px;
+    width: 250px;
+    font-family: Mate SC, serif;
+    border-radius: 6px;
+    border: 0;
+    margin: 4px;
+    font-size: 16px;
+  }
+  
+  .trybewarts-login input:focus {
+    outline: none;
+  }
+  
+  .trybewarts-login button {
+    margin: 0 8px;
+    padding: 0 12px;
+    border-radius: 6px;
+    border: 0;
+    background-color: slateblue;
+    color: white;
+    font-family: Mate SC, serif;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  
+  main {
+    display: flex;
+    margin-bottom: 45px;
+    justify-content: center;
+    margin-top: 38px;
+    min-height: 100%;
+  }
+  
+  #evaluation-form {
+    display: flex;
+    width: 675px;
+    flex-direction: column;
+  }
+  
+  #trybewarts-forms-logo {
+    height: 500px;
+  }
+  
+  .input-row {
+    flex-direction: row;
+  }
+  
+  .input-row select {
+    padding: 8px;
+    width: 214px;
+    border-radius: 6px;
+    font-family: Mate SC, serif;
+    font-size: 16px;
+    background-color: white;
+  }
+  
+  hr {
+    margin: 12px 0;
+    width: 550px;
+  }
+  
+  .family-subject-container {
+    display: flex;
+  }
+  
+  .family-container {
+    margin-right: 48px;
+  }
+  
+  .subject-container {
+    max-width: 400px;
+  }
+  
+  .content {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .content div {
+    margin: 4px 24px;
+  }
+  
+  .radio-container {
+    display: flex;
+    margin-bottom: 8px;
+  }
+  
+  .radio-container div {
+    margin: 0 4px;
+  }
+  
+  .footer {
+    display: flex;
+    justify-content: center;
+    background-color: dimgrey;
+    padding: 8px;
+    bottom: 0;
+    width: 100%;
+    margin-bottom: 0;
+  }
+  
+  #textarea {
+    padding: 20px 16px;
+    resize: none;
+  }
+  
+  #agreement {
+    margin: 8px 0;
+  }
+  
+  #counter {
+    position: absolute;
+    top: 525px;
+    left: 605px;
+  }
+  
+  #submit-btn {
+    padding: 6px;
+    background-color: slateblue;
+    color: white;
+    border: 0;
+    border-radius: 6px;
+    max-width: 530px;
+    cursor: pointer;
+    font-family: Mate SC, serif;
+    font-weight: 600;
+  }
+  
