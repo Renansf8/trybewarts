@@ -1,7 +1,7 @@
 # Projeto Trybewarts
 Uma landing page de um formulário. O objetivo do projeto é aplicar os conhecimentos adquiridos sobre Javascript, HTML e CSS. Bem como aplicar os conceitos de pair programming pois ele foi desenvoldido em dupla.
 
-file:///home/renansf/Imagens/trybewarts.png![image](https://user-images.githubusercontent.com/60987449/119270633-04a03080-bbd4-11eb-8b24-069fc0042ad5.png)
+![image](https://user-images.githubusercontent.com/60987449/119270633-04a03080-bbd4-11eb-8b24-069fc0042ad5.png)
 
 ### Termos de acordo
 
