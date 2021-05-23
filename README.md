@@ -1,3 +1,6 @@
+# Projeto Trybewarts
+Uma landing page de um formulário. O objetivo do projeto é aplicar os conhecimentos adquiridos sobre Javascript, HTML e CSS. Bem como aplicar os conceitos de pair programming pois ele foi desenvoldido em dupla.
+
 ### Termos de acordo
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
